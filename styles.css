@@ -1,0 +1,11 @@
+nav {
+    float: right;
+    height: 100vh;
+    background: tomato;
+}
+
+box {
+    width: 100px;
+    height: 100px;
+    background: cornflowerblue;
+}
